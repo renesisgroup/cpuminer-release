@@ -1,0 +1,1 @@
+cpuminer -a renesis  -o stratum+tcp://cryptopool.party:4444 -u RXQavd8K5gFqJVp3zDMvm1BBGU2JLKXWSq -p c=RESS
